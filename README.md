@@ -1,4 +1,4 @@
-# Subject-wide optotagging analysis
+# External laser stimulation optotagging analysis
 
 This capsule analyzes paired raw and sorted ecephys assets and packages each
 session as an AIND-derived result suitable for Code Ocean capture.
