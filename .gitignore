@@ -1,0 +1,9 @@
+/data/
+/.codeocean/secrets.json
+/results/
+/scratch/
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/

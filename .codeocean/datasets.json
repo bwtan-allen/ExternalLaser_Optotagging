@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "26f0a777-8474-447e-92ba-599f32014de6",
+			"mount": "853781_2026-07-06_11-54-49_laser_response_metrics"
+		},
+		{
+			"id": "3adb4133-64e6-4b03-b247-239375ec429b",
+			"mount": "853781_2026-07-09_11-24-52_laser_response_metrics"
+		},
+		{
+			"id": "9331e275-d1bb-4bc8-8125-1aa1a89f4add",
+			"mount": "ecephys_853781_2026-07-10_12-25-18"
+		},
+		{
+			"id": "b6ee7dba-ca0d-418e-8fec-6ada1203dff4",
+			"mount": "853781_2026-07-08_10-40-29_laser_response_metrics"
+		},
+		{
+			"id": "d698bd5b-343b-4311-8ec9-43ef5425ac88",
+			"mount": "ecephys_853781_2026-07-10_12-25-18_sorted_2026-07-17_13-33-40"
+		},
+		{
+			"id": "e26db3ec-073d-40a9-a01c-5de83c837d7a",
+			"mount": "853781_2026-07-02_11-42-57_laser_response_metrics"
+		},
+		{
+			"id": "eef04dcc-74e3-4a9e-9da9-52ad1148f225",
+			"mount": "853781_2026-07-10_12-25-18_laser_response_metrics"
+		}
+	]
+}

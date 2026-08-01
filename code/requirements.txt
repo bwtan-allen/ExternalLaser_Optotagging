@@ -1,0 +1,14 @@
+aind-ephys-utils==0.4.0
+aind-codeocean-pipeline-monitor==0.11.2
+aind-data-schema==2.9.0
+codeocean==0.13.0
+matplotlib==3.11.1
+numpy==2.5.1
+open-ephys-python-tools==1.0.1
+pandas==3.0.5
+requests==2.32.3
+scipy==1.18.0
+spikeinterface==0.104.7
+statsmodels==0.14.6
+tqdm==4.70.0
+zarr==2.18.7
